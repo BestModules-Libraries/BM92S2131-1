@@ -2,7 +2,7 @@
 <img src="https://github.com/BestModules-Libraries/img/blob/main/BM92S2131-1_BMA92K213_V1.0.png" width="405" height="240"> 
 </div> 
 
-BMA92K213
+BM92S2131-1
 ===========================================================
 
 The BM92S2131-1 is a capacitive fingerprint recognition module from Best Modules, which uses the UART communication method. This document provides the description of the BM92S2131-1 Arduino Lib functions and how to install the Arduino Lib. The example uses the BMA92K213 module to demonstrate the functions of fingerprint enrollment and fingerprint recognition.
@@ -20,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BM92S2131-1 Arduino Library Description]( https://www.bestmodulescorp.com/bma92k213.html#tab-product2 )** - Arduino Library Description.
+* **[BM92S2131-1 Arduino Library Description]( https://www.bestmodulescorp.com/BM92S2131-1.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
