@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BM92S2131-1_BMA92K213_V1.0.png" width="405" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BM92S2131-1_BMA92K213_V1.0.png" width="524" height="240"> 
 </div> 
 
 BM92S2131-1
@@ -41,3 +41,4 @@ If you have any questions or concerns on licensing, please contact technical sup
 Distributed as-is; no warranty is given.
 
 BESTMODULES
+
