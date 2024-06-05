@@ -20,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BM92S2131-1 Arduino Library Description]( https://www.bestmodulescorp.com/BM92S2131-1.html#tab-product2 )** - Arduino Library Description.
+* **[BM92S2131-1 Arduino Library Description]( https://www.bestmodulescorp.com/bm92s2131-1.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
